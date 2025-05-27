@@ -14,7 +14,7 @@
       "genre": ["Action", "Fantasy", "Reincarnation"],
       "author": "Mad Snail",
       "sinopsis": "Seorang pemuda yang mati dan bereinkarnasi kembali ke masa lalu dengan ingatan lengkap untuk mengubah nasibnya.",
-      "gambar": "https://example.com/images/tales_of_demons_and_gods.jpg"
+      "gambar": "https://storage.shngm.id/thumbnail/cover/e676e4bd65c6.jpeg"
     },
     {
       "judul": "The Beginning After The End",
@@ -22,7 +22,7 @@
       "genre": ["Fantasy", "Adventure", "Drama"],
       "author": "TurtleMe",
       "sinopsis": "Raja yang bereinkarnasi ke dunia baru berusaha mengungkap rahasia kekuatannya dan masa lalunya.",
-      "gambar": "https://example.com/images/the_beginning_after_the_end.jpg"
+      "gambar": "https://storage.shngm.id/thumbnail/cover/4f7291d640a4.jpeg"
     },
     {
       "judul": "Omniscient Reader's Viewpoint",
@@ -30,7 +30,7 @@
       "genre": ["Action", "Drama", "Fantasy"],
       "author": "Sing Shong",
       "sinopsis": "Seorang pembaca novel menyadari dunia nyata berubah menjadi dunia novel favoritnya.",
-      "gambar": "https://example.com/images/omniscient_readers_viewpoint.jpg"
+      "gambar": "https://storage.shngm.id/thumbnail/cover/78c7954c72ba.jpeg"
     },
     {
       "judul": "Who Made Me a Princess",
@@ -38,7 +38,7 @@
       "genre": ["Romance", "Drama", "Fantasy"],
       "author": "Plutus",
       "sinopsis": "Seorang gadis terlahir kembali sebagai putri dalam dunia novel yang penuh intrik dan bahaya.",
-      "gambar": "https://example.com/images/who_made_me_a_princess.jpg"
+      "gambar": "https://i.pinimg.com/236x/ee/5e/b2/ee5eb25467b057009a62ddd9e06b0332.jpg"
     },
     {
       "judul": "Nano Machine",
@@ -46,7 +46,7 @@
       "genre": ["Action", "Martial Arts", "Fantasy"],
       "author": "Jeon Gwang-jin",
       "sinopsis": "Seorang pendekar zaman kuno mendapatkan teknologi nano untuk meningkatkan kekuatannya.",
-      "gambar": "https://example.com/images/nano_machine.jpg"
+      "gambar": "https://storage.shngm.id/low/unsafe/filters:format(webp):quality(70)/thumbnail/image/27994c6a-415a-41cf-8569-de7e9b6ae7d9.jpg"
     },
     {
       "judul": "Legend of the Northern Blade",
@@ -54,7 +54,7 @@
       "genre": ["Action", "Martial Arts", "Fantasy"],
       "author": "Woo-Gak",
       "sinopsis": "Pewarisan seni bela diri legendaris dan perjuangan melawan kegelapan.",
-      "gambar": "https://example.com/images/legend_of_the_northern_blade.jpg"
+      "gambar": "https://storage.shngm.id/thumbnail/cover/6cc4beeae9df.jpeg"
     },
     {
       "judul": "Villain to Kill",
@@ -62,15 +62,15 @@
       "genre": ["Action", "Romance", "Fantasy"],
       "author": "Chun-Su",
       "sinopsis": "Seorang gadis yang terlahir kembali dengan misi membalas dendam di dunia magis.",
-      "gambar": "https://example.com/images/villain_to_kill.jpg"
+      "gambar": "https://storage.shngm.id/low/unsafe/filters:format(webp):quality(70)/thumbnail/image/4db670da-427d-47fd-b49f-7f04bba302a0.jpg"
     },
     {
-      "judul": "The Live",
+      "judul": "Star-Embracing Swordmaster",
       "status": "Ongoing",
-      "genre": ["Action", "Survival", "Fantasy"],
-      "author": "Ant Studio",
-      "sinopsis": "Seorang ayah berusaha menyelamatkan keluarganya di dunia pasca-apokaliptik penuh zombie.",
-      "gambar": "https://example.com/images/the_live.jpg"
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "author": "Hong Dae-Wui",
+      "sinopsis": "Vlad adalah anak gelandangan dari daerah kumuh yang selalu mengagumi kesatria. Setelah sebuah insiden di mana dia tersambar petir hitam dia mulai mendengar suara. Suatu hari mendadak kesatria blue moonlight muncul dan kehidupan Vlad di daerah kumuh itu berubah drastic bahkan sebuah bintang yang redup yang tidak bersinar di puncak langit malam masih sebuah bintang jika ia ingin bersinar.",
+      "gambar": "https://storage.shngm.id/low/unsafe/filters:format(webp):quality(70)/thumbnail/image/fcce412c-3d74-4c29-85d2-dc94492c1d98.jpg"
     },
     {
       "judul": "The Scholar’s Reincarnation",
@@ -78,7 +78,7 @@
       "genre": ["Action", "Drama", "Fantasy"],
       "author": "Cheongcho",
       "sinopsis": "Seorang pendekar yang bereinkarnasi untuk memperbaiki kesalahan masa lalunya dan membalas dendam.",
-      "gambar": "https://example.com/images/the_scholars_reincarnation.jpg"
+      "gambar": "https://storage.shngm.id/thumbnail/cover/eb5b20327b13.jpeg"
     }
   ]
 }
