@@ -1,0 +1,84 @@
+{
+  "komik": [
+    {
+      "judul": "Solo Leveling",
+      "status": "Ongoing",
+      "genre": ["Action", "Fantasy", "Adventure"],
+      "author": "Chugong",
+      "sinopsis": "Seorang pemburu terlemah berubah menjadi yang terkuat setelah mendapatkan kekuatan misterius.",
+      "gambar": "https://example.com/images/solo_leveling.jpg"
+    },
+    {
+      "judul": "Tales of Demons and Gods",
+      "status": "Completed",
+      "genre": ["Action", "Fantasy", "Reincarnation"],
+      "author": "Mad Snail",
+      "sinopsis": "Seorang pemuda yang mati dan bereinkarnasi kembali ke masa lalu dengan ingatan lengkap untuk mengubah nasibnya.",
+      "gambar": "https://example.com/images/tales_of_demons_and_gods.jpg"
+    },
+    {
+      "judul": "The Beginning After The End",
+      "status": "Ongoing",
+      "genre": ["Fantasy", "Adventure", "Drama"],
+      "author": "TurtleMe",
+      "sinopsis": "Raja yang bereinkarnasi ke dunia baru berusaha mengungkap rahasia kekuatannya dan masa lalunya.",
+      "gambar": "https://example.com/images/the_beginning_after_the_end.jpg"
+    },
+    {
+      "judul": "Omniscient Reader's Viewpoint",
+      "status": "Ongoing",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "author": "Sing Shong",
+      "sinopsis": "Seorang pembaca novel menyadari dunia nyata berubah menjadi dunia novel favoritnya.",
+      "gambar": "https://example.com/images/omniscient_readers_viewpoint.jpg"
+    },
+    {
+      "judul": "Who Made Me a Princess",
+      "status": "Completed",
+      "genre": ["Romance", "Drama", "Fantasy"],
+      "author": "Plutus",
+      "sinopsis": "Seorang gadis terlahir kembali sebagai putri dalam dunia novel yang penuh intrik dan bahaya.",
+      "gambar": "https://example.com/images/who_made_me_a_princess.jpg"
+    },
+    {
+      "judul": "Nano Machine",
+      "status": "Ongoing",
+      "genre": ["Action", "Martial Arts", "Fantasy"],
+      "author": "Jeon Gwang-jin",
+      "sinopsis": "Seorang pendekar zaman kuno mendapatkan teknologi nano untuk meningkatkan kekuatannya.",
+      "gambar": "https://example.com/images/nano_machine.jpg"
+    },
+    {
+      "judul": "Legend of the Northern Blade",
+      "status": "Ongoing",
+      "genre": ["Action", "Martial Arts", "Fantasy"],
+      "author": "Woo-Gak",
+      "sinopsis": "Pewarisan seni bela diri legendaris dan perjuangan melawan kegelapan.",
+      "gambar": "https://example.com/images/legend_of_the_northern_blade.jpg"
+    },
+    {
+      "judul": "Villain to Kill",
+      "status": "Completed",
+      "genre": ["Action", "Romance", "Fantasy"],
+      "author": "Chun-Su",
+      "sinopsis": "Seorang gadis yang terlahir kembali dengan misi membalas dendam di dunia magis.",
+      "gambar": "https://example.com/images/villain_to_kill.jpg"
+    },
+    {
+      "judul": "The Live",
+      "status": "Ongoing",
+      "genre": ["Action", "Survival", "Fantasy"],
+      "author": "Ant Studio",
+      "sinopsis": "Seorang ayah berusaha menyelamatkan keluarganya di dunia pasca-apokaliptik penuh zombie.",
+      "gambar": "https://example.com/images/the_live.jpg"
+    },
+    {
+      "judul": "The Scholar’s Reincarnation",
+      "status": "Ongoing",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "author": "Cheongcho",
+      "sinopsis": "Seorang pendekar yang bereinkarnasi untuk memperbaiki kesalahan masa lalunya dan membalas dendam.",
+      "gambar": "https://example.com/images/the_scholars_reincarnation.jpg"
+    }
+  ]
+}
